@@ -1,1 +1,0 @@
-print("The length of your location is " + "lenlocation")
